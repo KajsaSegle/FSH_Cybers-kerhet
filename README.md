@@ -1,1 +1,1 @@
-This is an encryption tool that can generate symmetrical keys, encrypt files and decrypt files.
+This is a tool for symmetrical encryption. It can create new keys and use already existing keys to encrypt or decrypt files.
