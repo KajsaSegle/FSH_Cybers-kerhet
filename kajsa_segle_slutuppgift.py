@@ -1,6 +1,6 @@
 #Målet är att all input ska ges innan programmet körs.
-#Användaren ska kunna skapa en ny nyckel.
-#Användaren ska också kryptera eller dekryptera en fil med hjälp av valfri existerande nyckel.
+#Användaren ska kunna skapa en ny nyckel och ge den ett valfritt namn.
+#Användaren ska också kunna kryptera eller dekryptera en fil med hjälp av valfri existerande nyckel.
 
 import argparse
 import os 
