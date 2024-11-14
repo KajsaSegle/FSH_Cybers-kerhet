@@ -1,1 +1,1 @@
-# This is a read me file
+This is an encryption tool that can generate symmetrical keys, encrypt files and decrypt files.
